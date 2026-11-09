@@ -1,7 +1,7 @@
 # Tóm tắt bài làm
 
-- **Đề tài:** (điền tên đề tài)
-- **Nhóm:** (mã nhóm — không dùng tên thật)
+- **Đề tài:** Xử lý dữ liệu khuyết thang điểm nhận thức (MMSE/MoCA) trong sàng lọc Sa sút trí tuệ
+- **Nhóm:** N04
 - **Mô hình chính:** (vd Random Forest + SHAP)
 - **Kết quả nổi bật:** (1-2 chỉ số chính, vd AUC/F1)
 
